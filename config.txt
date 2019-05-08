@@ -1,0 +1,6 @@
+owner=473205611220303882
+prefix= 1help
+game=Project Team |1help
+stayinchannel=true
+songinstatus=false
+token=NTc1NzQzNDE4NjQ3NDQ1NTI0.XNMY8A.7Z1Il8aqAYXxOxF_neEbbOeHego
